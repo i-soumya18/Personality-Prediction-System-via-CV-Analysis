@@ -1,0 +1,17 @@
+Bachelor in Technology
+Master
+PhD
+Degree
+Diploma
+Graduate
+Undergraduate
+High School
+B.Tech
+Associate Degree
+Doctorate
+Postgraduate
+Secondary Education
+Vocational Training
+GED (General Educational Development)
+Bachelor of Technology - BTech
+ Computer Science Engineering

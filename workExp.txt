@@ -1,0 +1,100 @@
+Software Engineer
+Data Scientist
+Business Analyst
+Project Manager
+Software Developer
+UX/UI Designer
+Quality Assurance Engineer
+System Administrator
+Network Engineer
+Security Analyst
+Technical Support Specialist
+Research Scientist
+Sales Representative
+Marketing Specialist
+Human Resources Manager
+Financial Analyst
+Operations Manager
+Product Manager
+Customer Service Representative
+Web Designer
+Graphic Designer
+Content Writer
+Event Planner
+Logistics Coordinator
+Supply Chain Manager
+Teacher / Instructor
+Legal Counsel
+Healthcare Professional
+Pharmacist
+Retail Associate
+Hospitality Manager
+Real Estate Agent
+Mechanical Engineer
+Electrical Engineer
+Civil Engineer
+Chemical Engineer
+Construction Manager
+Architect
+Veterinarian
+Chef / Cook
+Fitness Trainer
+Athlete
+Artist
+Musician
+Photographer
+Videographer
+Actor
+Dancer
+Model
+Journalist
+Writer
+Editor
+Translator
+Interpreter
+Librarian
+Scientist
+Researcher
+Professor
+Lecturer
+Academic Advisor
+Counselor
+Therapist
+Psychologist
+Social Worker
+Police Officer
+Firefighter
+Paramedic
+Soldier
+Pilot
+Flight Attendant
+Driver
+Farmer
+Entrepreneur
+Business Owner
+Investor
+Accountant
+Banker
+Economist
+Financial Advisor
+Insurance Agent
+Actuary
+Statistician
+Mathematician
+Physicist
+Astronomer
+Biologist
+Chemist
+Geologist
+Meteorologist
+Pharmacist
+Physician
+Nurse
+Dentist
+Dietitian
+Nutritionist
+Pharmacist
+Veterinarian
+Psychiatrist
+Psychologist
+Therapist

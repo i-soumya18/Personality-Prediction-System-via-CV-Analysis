@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CV Analysis Results</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f6f6f6; /* Light gray background with a metallic touch */
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #55119e; /* Intensified Lavender text color */
+        }
+        .result-section {
+            margin-bottom: 20px;
+            background-color: #ebe3ff; /* Intensified Lavender background color */
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Increased shadow effect for a metallic feel */
+        }
+        .result-title {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 8px;
+            color: #7e38d7; /* Intensified Lavender text color */
+        }
+        .result-details {
+            font-size: 16px;
+            margin-left: 20px;
+            color: #5c2a94; /* Slightly darker intensified lavender text color */
+        }
+    </style>
+</head>
+<body>
+    <h1>CV Analysis Results</h1>
+
+    <div class="result-section">
+        <div class="result-title">Name:</div>
+        <div class="result-details">{{ name }}</div>
+    </div>
+
+    <div class="result-section">
+        <div class="result-title">Contact Information:</div>
+        <div class="result-details">{{ contact_info }}</div>
+    </div>
+
+    <div class="result-section">
+        <div class="result-title">Education:</div>
+        <div class="result-details">{{ education }}</div>
+    </div>
+
+    <div class="result-section">
+        <div class="result-title">Work Experience:</div>
+        <div class="result-details">{{ work_experience }}</div>
+    </div>
+
+    <div class="result-section">
+        <div class="result-title">Skills:</div>
+        <div class="result-details">{{ skills }}</div>
+    </div>
+    <div class="result-section">
+        <div class="result-title">Personality Traits:</div>
+        <div class="result-details">{{ personality_traits }}</div>
+    </div>
+    <div class="result-section">
+        <div class="result-title">A.I Personality Prediction:</div>
+        <div class="result-details">{{ response }}</div>
+    </div>
+    <!-- Add more sections if needed based on the extracted information -->
+</body>
+</html>
