@@ -13,3 +13,4 @@ joblib
 google-ai-generativelanguage
 Jinja2
 sklearn
+scikit-learn
