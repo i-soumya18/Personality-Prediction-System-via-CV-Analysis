@@ -4,26 +4,16 @@
 
 The Personality Prediction System is an AI-powered application designed to analyze resumes or textual data provided by candidates, predict their personality traits, and assist recruiters in making informed hiring decisions. This system utilizes various technologies and techniques, including machine learning, natural language processing (NLP), and a web interface to streamline the candidate evaluation process.
 
-## Key Features
+#Installation Guide
+## copy this repo link and open on your IDE
+## Create your Gemini Api key going through the link below.
+>  https://makersuite.google.com/app/apikey
+## Install the requirements
+> pip install r- requirements.txt
+## Run the app.py
+> python app.py
+## Enjoy -:)
 
-1. **Resume Analysis**:
-   - Supports multiple file formats (PDF, DOCX) for analyzing resumes.
-   - Extracts textual data from resumes using libraries like PyPDF2, textract, and docx in Python.
-
-2. **Personality Trait Prediction**:
-   - Utilizes machine learning models and NLP techniques to predict personality traits (e.g., openness, conscientiousness) based on the extracted textual data.
-   - Implements TF-IDF (Term Frequency-Inverse Document Frequency) vectorization to generate features for trait prediction.
-
-3. **Web Interface**:
-   - Implemented using Flask, allowing users to upload resumes for analysis.
-   - Displays extracted details and AI-generated personality trait descriptions through a user-friendly web interface.
-
-4. **Data Handling**:
-   - Stores extracted resume details in a CSV file ('extracted_details.csv') for historical reference.
-   - Provides functionalities to view history, export data, and clear history through the web interface.
-
-5. **AI Interaction**:
-   - Utilizes Google's GenerativeAI service to generate conversational responses describing a candidate's personality traits based on the extracted details.
 
 ## Technologies Used
 
