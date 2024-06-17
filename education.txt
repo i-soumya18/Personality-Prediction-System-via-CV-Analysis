@@ -14,4 +14,4 @@ Secondary Education
 Vocational Training
 GED (General Educational Development)
 Bachelor of Technology - BTech
- Computer Science Engineering
+Computer Science Engineering

@@ -92,9 +92,7 @@ def extract_tfidf_features(texts):
     return tfidf_features, tfidf_vectorizer
 
 
-import re
 
-import re
 
 def extract_name(filename, row_number):
     # Extract name from the PDF filename

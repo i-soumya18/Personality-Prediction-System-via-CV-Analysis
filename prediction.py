@@ -29,15 +29,16 @@ traits_mapping = read_traits_from_file(traits_file)
 #print(traits_mapping)  # This will display the traits mapping dictionary
 
 
-# Function to assign personality traits based on skills
 def assign_personality_traits(row):
     traits_scores = {trait: 0 for trait in traits_mapping}
-    for trait, associated_skills in traits_mapping.items():
-        for skill in associated_skills:
-            if skill in row['Skills']:
-                traits_scores[trait] += 1
+    if not pd.isna(row['Skills']):  # Check if 'Skills' is not NaN
+        for trait, associated_skills in traits_mapping.items():
+            for skill in associated_skills:
+                if skill in row['Skills']:
+                    traits_scores[trait] += 1
 
     return pd.Series(traits_scores)
+
 
 # Apply the function to the dataframe to assign personality traits
 personality_traits = data.apply(assign_personality_traits, axis=1)
